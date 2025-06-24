@@ -4,6 +4,6 @@ pkg update
 
 git clone https://github.com/Herivola01/Milk_Juin.git
 
-cd SMilk
+cd Milk_Juin
 
 python SMilk.py
