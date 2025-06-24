@@ -1,4 +1,4 @@
-rm -rf Milk
+rm -rf Milk_Juin
 
 pkg update
 
